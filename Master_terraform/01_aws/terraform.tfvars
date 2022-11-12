@@ -1,0 +1,6 @@
+vpc_cidr_block = "10.0.0.0/16"
+web_subnet = "10.0.10.0/24"
+subnet_zone = "eu-central-la"
+main_vpc_name = "new vpc"
+my_public_ip = "105.112.36.226"
+ssh_public_key = "C:/Users/D~/.ssh/new-key.pub"
